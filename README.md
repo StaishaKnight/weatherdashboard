@@ -24,8 +24,11 @@ THEN I am again presented with current and future conditions for that city
 
 
 
-# Author
+## Author
 Staisha Knight
 [Link to Github](https://github.com/StaishaKnight/weatherdashboard.git)
+
+##Website link
+https://staishaknight.github.io/weatherdashboard/
 
 
